@@ -47,6 +47,7 @@ return array (
   'Unknown operator "{operator}".' => 'L\'opérateur « {operator} » est inconnu.',
   'Unknown type "{type}".' => 'Le type « {type} » est inconnu.',
   'Your request is invalid.' => 'Votre requête est invalide.',
+  'The format of {attribute} is invalid.'=>'Le format de {attribute} est invalide',
   '{attribute} cannot accept more than {limit} files.' => '{attribute} ne peut supporter plus de {limit} fichiers.',
   '{attribute} is in the list.' => '{attribute} est dans la liste.',
   '{className} does not support flushValues() functionality.' => '{className} ne supporte pas la fonctionnalité flushValues().',
